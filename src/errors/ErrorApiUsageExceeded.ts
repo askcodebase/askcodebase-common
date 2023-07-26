@@ -2,7 +2,9 @@ import { AskCodebaseError } from "./AskCodebaseError";
 import { AskCodebaseErrorCode } from "./AskCodebaseErrorCode";
 
 export class ErrorApiUsageExceeded extends AskCodebaseError {
+    public static code = AskCodebaseErrorCode.E10003
+
     constructor(message: string) {
-        super(AskCodebaseErrorCode.E1002, message);
+        super(ErrorApiUsageExceeded.code, message);
     }
 }

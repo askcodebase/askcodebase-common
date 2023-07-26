@@ -1,8 +1,12 @@
 export enum AskCodebaseErrorCode {
+    /** Success */
+    E0000 = 0,
     /** Unkonwn error */
-    E1000 = 'E1000',
+    E10001 = 10001,
     /** Access token expired */
-    E1001 = 'E1001',
+    E10002 = 10002,
     /** API usage limit exceeded */
-    E1002 = 'E1002',
+    E10003 = 10003,
+    /** User is null */
+    E10004 = 10004,
 }

@@ -1,10 +1,10 @@
 import { AskCodebaseError } from "./AskCodebaseError";
 import { AskCodebaseErrorCode } from "./AskCodebaseErrorCode";
 
-export class ErrorTokenExpired extends AskCodebaseError {
-    public static code = AskCodebaseErrorCode.E10002
+export class ErrorUserNull extends AskCodebaseError {
+    public static code = AskCodebaseErrorCode.E10004
 
     constructor(message: string) {
-        super(ErrorTokenExpired.code, message);
+        super(ErrorUserNull.code, message);
     }
 }

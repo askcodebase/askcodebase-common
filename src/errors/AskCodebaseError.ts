@@ -1,15 +1,20 @@
+import { JsonResp } from "../typings";
 import { AskCodebaseErrorCode } from "./AskCodebaseErrorCode";
 
 export class AskCodebaseError extends Error {
-    public code: AskCodebaseErrorCode = AskCodebaseErrorCode.E1000;
+    public code: AskCodebaseErrorCode = AskCodebaseErrorCode.E10001;
 
     constructor(code: AskCodebaseErrorCode, message: string) {
-        super(message);
-        this.code = code;
+        super(message)
+        this.code = code
     }
 
-    public getCode() {
-        return this.code
+    public serialize(): JsonResp<null> {
+        return {
+            data: null,
+            error: this.message,
+            errcode: this.code
+        }
     }
 
     public toString() {
