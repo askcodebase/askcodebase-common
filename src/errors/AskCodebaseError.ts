@@ -7,4 +7,8 @@ export class AskCodebaseError extends Error {
         super(message);
         this.code = code;
     }
+
+    public toString() {
+        return `${this.code}: ${this.message}`;
+    }
 }
