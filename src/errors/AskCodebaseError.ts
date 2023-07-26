@@ -8,6 +8,10 @@ export class AskCodebaseError extends Error {
         this.code = code;
     }
 
+    public getCode() {
+        return this.code
+    }
+
     public toString() {
         return `${this.code}: ${this.message}`;
     }
