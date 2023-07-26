@@ -1,4 +1,6 @@
-# askcodebase-common
+# `@askcodebase/common`
+
+Common types, definitions for AskCodebase client and server.
 
 ## Deveop
 
