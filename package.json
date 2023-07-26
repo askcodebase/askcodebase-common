@@ -12,9 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/jipitiai/askcodebase-common.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["askcodebase", "common", "types", "definitions", "client", "server"],
+  "author": "AskCodebase",
+  "license": "MIT",
+  "private": false,
   "bugs": {
     "url": "https://github.com/jipitiai/askcodebase-common/issues"
   },
