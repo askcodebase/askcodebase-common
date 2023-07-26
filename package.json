@@ -1,6 +1,6 @@
 {
   "name": "@askcodebase/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common types, definitions for AskCodebase client and server.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
