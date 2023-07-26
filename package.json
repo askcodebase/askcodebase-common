@@ -1,0 +1,25 @@
+{
+  "name": "@askcodebase/common",
+  "version": "1.0.0",
+  "description": "Common types, definitions for AskCodebase client and server.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jipitiai/askcodebase-common.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jipitiai/askcodebase-common/issues"
+  },
+  "homepage": "https://github.com/jipitiai/askcodebase-common#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
