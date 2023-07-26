@@ -13,7 +13,7 @@
     "url": "git+https://github.com/jipitiai/askcodebase-common.git"
   },
   "keywords": ["askcodebase", "common", "types", "definitions", "client", "server"],
-  "author": "AskCodebase",
+  "author": "jipiti-ai",
   "license": "MIT",
   "private": false,
   "bugs": {
