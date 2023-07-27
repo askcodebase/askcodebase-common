@@ -4,3 +4,7 @@ export * from "./ErrorTokenExpired";
 export * from "./ErrorApiUsageExceeded";
 export * from "./ErrorUserNull";
 export * from "./ErrorNone";
+export * from "./ErrorGithubUser";
+export * from "./ErrorGoogleUser";
+export * from "./ErrorStateNull";
+export * from "./ErrorAuthentication";
