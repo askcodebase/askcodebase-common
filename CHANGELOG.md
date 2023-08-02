@@ -1,3 +1,12 @@
+## [1.1.6](https://github.com/jipitiai/askcodebase-common/compare/v1.1.5...v1.1.6) (2023-08-02)
+
+
+### Bug Fixes
+
+* delete error script ([8741120](https://github.com/jipitiai/askcodebase-common/commit/87411201eef3b13b4e3229457acd06f8e8da5a63))
+
+
+
 ## [1.1.5](https://github.com/jipitiai/askcodebase-common/compare/v1.1.4...v1.1.5) (2023-08-02)
 
 
