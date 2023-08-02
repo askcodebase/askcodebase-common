@@ -7,7 +7,9 @@
   "scripts": {
     "watch": "tsc --watch",
     "build": "tsc",
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "postversion": "git push --follow-tags",
+    "prepublishOnly": "npm run test && npm run build"
   },
   "repository": {
     "type": "git",
