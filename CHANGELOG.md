@@ -3,6 +3,15 @@
 
 ### Bug Fixes
 
+* export env variable error in index.ts ([ff97672](https://github.com/jipitiai/askcodebase-common/commit/ff97672e34c904fb677f4ea483a9fdcc74eb2422))
+
+
+
+## [1.1.9](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.9) (2023-08-02)
+
+
+### Bug Fixes
+
 * set permissions for github action ([79013d2](https://github.com/jipitiai/askcodebase-common/commit/79013d2c3f3cf7ffc39b395228c5ad485e8c1746))
 
 
