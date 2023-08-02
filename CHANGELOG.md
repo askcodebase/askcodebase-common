@@ -1,3 +1,12 @@
+## [1.1.9](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.9) (2023-08-02)
+
+
+### Bug Fixes
+
+* set permissions for github action ([4c90f75](https://github.com/jipitiai/askcodebase-common/commit/4c90f7564290ced90fe873e48439d9ed32401518))
+
+
+
 ## [1.1.8](https://github.com/jipitiai/askcodebase-common/compare/v1.1.6...v1.1.8) (2023-08-02)
 
 
