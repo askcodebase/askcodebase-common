@@ -1,3 +1,12 @@
+## [1.1.5](https://github.com/jipitiai/askcodebase-common/compare/v1.1.4...v1.1.5) (2023-08-02)
+
+
+### Features
+
+* add github publish and release action ([eed3fb2](https://github.com/jipitiai/askcodebase-common/commit/eed3fb2a9f9f8187a3334a110f2d21a616072883))
+
+
+
 ## 1.1.4 (2023-08-02)
 
 
