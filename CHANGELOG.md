@@ -1,3 +1,7 @@
+## [1.1.8](https://github.com/jipitiai/askcodebase-common/compare/v1.1.6...v1.1.8) (2023-08-02)
+
+
+
 ## [1.1.7](https://github.com/jipitiai/askcodebase-common/compare/v1.1.6...v1.1.7) (2023-08-02)
 
 
