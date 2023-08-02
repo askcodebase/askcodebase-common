@@ -17,4 +17,6 @@ export enum AskCodebaseErrorCode {
   E10007 = 10007,
   /** Can't get google user by access token */
   E10008 = 10008,
+  /** Environment variable not set */
+  E10009 = 10009,
 }
