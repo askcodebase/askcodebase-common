@@ -3,24 +3,12 @@
 
 ### Bug Fixes
 
+* add auto push and publish in readme ([ccdb805](https://github.com/jipitiai/askcodebase-common/commit/ccdb805e0be4a475feb4d9ea90c10723e502d89b))
 * set permissions for github action ([79013d2](https://github.com/jipitiai/askcodebase-common/commit/79013d2c3f3cf7ffc39b395228c5ad485e8c1746))
 
 
 
-## [1.1.9](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.9) (2023-08-02)
-
-
-### Bug Fixes
-
-* set permissions for github action ([4c90f75](https://github.com/jipitiai/askcodebase-common/commit/4c90f7564290ced90fe873e48439d9ed32401518))
-
-
-
 ## [1.1.8](https://github.com/jipitiai/askcodebase-common/compare/v1.1.6...v1.1.8) (2023-08-02)
-
-
-
-## [1.1.7](https://github.com/jipitiai/askcodebase-common/compare/v1.1.6...v1.1.7) (2023-08-02)
 
 
 
@@ -42,7 +30,7 @@
 
 
 
-## 1.1.4 (2023-08-02)
+## [1.1.4](https://github.com/jipitiai/askcodebase-common/compare/4f386a47a3c8a677d5e579d6091fceb63a611f08...v1.1.4) (2023-08-02)
 
 
 ### Bug Fixes
