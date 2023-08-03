@@ -1,3 +1,13 @@
+## [1.1.10](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.10) (2023-08-03)
+
+
+### Bug Fixes
+
+* add auto push and publish in readme ([096a0e0](https://github.com/jipitiai/askcodebase-common/commit/096a0e0e59e2783bc55ad9334c619857819b16fe))
+* set permissions for github action ([79013d2](https://github.com/jipitiai/askcodebase-common/commit/79013d2c3f3cf7ffc39b395228c5ad485e8c1746))
+
+
+
 ## [1.1.9](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.9) (2023-08-02)
 
 
