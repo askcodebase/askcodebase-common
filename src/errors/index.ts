@@ -8,3 +8,4 @@ export * from "./ErrorGithubUser";
 export * from "./ErrorGoogleUser";
 export * from "./ErrorStateNull";
 export * from "./ErrorAuthentication";
+export * from "./ErrorEnvVariable";
