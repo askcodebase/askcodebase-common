@@ -1,3 +1,12 @@
+## [1.1.13](https://github.com/jipitiai/askcodebase-common/compare/v1.1.12...v1.1.13) (2023-08-03)
+
+
+### Features
+
+* add conversation type ([1119d95](https://github.com/jipitiai/askcodebase-common/commit/1119d95e287d903c64d6c6f76fce246652bdd439))
+
+
+
 ## [1.1.12](https://github.com/jipitiai/askcodebase-common/compare/v1.1.10...v1.1.12) (2023-08-03)
 
 
