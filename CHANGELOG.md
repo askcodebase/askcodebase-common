@@ -1,3 +1,12 @@
+## [1.1.12](https://github.com/jipitiai/askcodebase-common/compare/v1.1.10...v1.1.12) (2023-08-03)
+
+
+### Bug Fixes
+
+* add error env variable in index ([42fe446](https://github.com/jipitiai/askcodebase-common/commit/42fe446236af5a6772efe43403ada391cf5d52e3))
+
+
+
 ## [1.1.10](https://github.com/jipitiai/askcodebase-common/compare/v1.1.8...v1.1.10) (2023-08-03)
 
 
