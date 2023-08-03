@@ -1,3 +1,12 @@
+## [1.1.14](https://github.com/jipitiai/askcodebase-common/compare/v1.1.13...v1.1.14) (2023-08-03)
+
+
+### Features
+
+* add vector types ([2c39e2b](https://github.com/jipitiai/askcodebase-common/commit/2c39e2be846edb40826a7e55c260fda8c344fcae))
+
+
+
 ## [1.1.13](https://github.com/jipitiai/askcodebase-common/compare/v1.1.12...v1.1.13) (2023-08-03)
 
 
