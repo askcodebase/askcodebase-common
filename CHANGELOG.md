@@ -1,3 +1,12 @@
+## [1.1.16](https://github.com/jipitiai/askcodebase-common/compare/v1.1.15...v1.1.16) (2023-08-04)
+
+
+### Bug Fixes
+
+* add score threshold ([14831d9](https://github.com/jipitiai/askcodebase-common/commit/14831d9e87d0e6bdaf5cc76955600134a7feaf2a))
+
+
+
 ## [1.1.15](https://github.com/jipitiai/askcodebase-common/compare/v1.1.14...v1.1.15) (2023-08-04)
 
 
