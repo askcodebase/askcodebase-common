@@ -16,6 +16,7 @@ export type Searches = {
   limit: number;
   with_payload: boolean;
   filter: Filter;
+  score_threshold: number;
 };
 
 export type VectorSearchParams = {

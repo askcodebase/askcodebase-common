@@ -37,10 +37,5 @@
     "conventional-changelog-cli": "^3.0.0",
     "husky": "^8.0.3",
     "typescript": "^5.1.6"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "npx commitlint -E HUSKY_GIT_PARAMS"
-    }
   }
 }
