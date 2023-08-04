@@ -5,3 +5,4 @@ export * from "./IConversation";
 export * from "./MsgVectorPayload";
 export * from "./VectorPoint";
 export * from "./VectorSearchParams";
+export * from "./ChatCompletionResp";
