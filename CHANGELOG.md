@@ -1,3 +1,12 @@
+## [1.1.15](https://github.com/jipitiai/askcodebase-common/compare/v1.1.14...v1.1.15) (2023-08-04)
+
+
+### Features
+
+* add chat completionresp ([aa92d89](https://github.com/jipitiai/askcodebase-common/commit/aa92d8908ceae3484e0402dbeab93bdb634ffb8f))
+
+
+
 ## [1.1.14](https://github.com/jipitiai/askcodebase-common/compare/v1.1.13...v1.1.14) (2023-08-03)
 
 
