@@ -9,3 +9,4 @@ export * from "./ErrorGoogleUser";
 export * from "./ErrorStateNull";
 export * from "./ErrorAuthentication";
 export * from "./ErrorEnvVariable";
+export * from "./ErrorInternal";

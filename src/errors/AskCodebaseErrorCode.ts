@@ -19,4 +19,6 @@ export enum AskCodebaseErrorCode {
   E10008 = 10008,
   /** Environment variable not set */
   E10009 = 10009,
+  /** Internal error */
+  E10010 = 10010,
 }
