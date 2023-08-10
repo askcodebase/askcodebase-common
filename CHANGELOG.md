@@ -1,3 +1,12 @@
+## [1.1.17](https://github.com/jipitiai/askcodebase-common/compare/v1.1.16...v1.1.17) (2023-08-10)
+
+
+### Features
+
+* add internal error ([e23bd15](https://github.com/jipitiai/askcodebase-common/commit/e23bd159b75a2424e6ed1ef7cf9ef2bd4e17fbb1))
+
+
+
 ## [1.1.16](https://github.com/jipitiai/askcodebase-common/compare/v1.1.15...v1.1.16) (2023-08-04)
 
 
